@@ -1,3 +1,7 @@
+// here I have taken the functions from lab and added three functions
+// of my own in order to find the total motion energy
+
+
 /** Converts a color image into a binary image
 @param src the source color image
 @param dst the output image

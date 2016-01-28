@@ -48,7 +48,7 @@ Creates a thresholded image from a grayscale image.
 void myThresholdImage(Mat& src, Mat& dst, int threshold);
 
 int main()
-{}
+{return 0}
 
 	//Creates a grayscale image from a color image.
 	void myGrayScale(Mat& src, Mat& dst) {
